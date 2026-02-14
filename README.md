@@ -11,11 +11,10 @@ O projeto demonstra o uso de:
 - Estrutura básica de organização de projeto Java
 
 ---
+## 📁 Estrutura do Projeto
 
-## Estrutura do Projeto
-
+```
 FileReader-Writer/
-│
 ├── src/
 │   ├── Main.java            # Classe principal para execução
 │   ├── Produto.java         # Classe modelo representando um produto
@@ -28,6 +27,7 @@ FileReader-Writer/
 │       └── somatorio.csv    # Arquivo utilizado para armazenar somatória dos produtos
 │
 └── README.md
+```
 
 ---
 
