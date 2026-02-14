@@ -65,7 +65,7 @@ Este projeto foi desenvolvido como exercício prático de curso para reforçar c
 ![Estrutura do Projeto](imagens/produto.png)
 
 ### 📌 Print 2 – Execução no Terminal
-![Execução no Terminal](imagens/)
+![Execução no Terminal](imagens/terminalatt.png)
 
 ### 📌 Print 3 – Somatorio.csv
 ![Conteúdo do CSV](imagens/somatorio.png)
