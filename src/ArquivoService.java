@@ -5,7 +5,7 @@ public class ArquivoService {
 
     String caminho = "C:\\Users\\gabri\\OneDrive\\Documentos\\FileReader-FileWriter\\FileReader-Writer\\csvs";
 
-    public void somatoriaProddutos(Produto produto){
+    public void somatoriaProdutos(Produto produto){
 
         String linhaProduto = produto.getNome() + "," + produto.getValor() + "," + produto.getQuantidade();
         String linhaSomatorio = produto.getNome() + "," + produto.getValor() * produto.getQuantidade();
