@@ -11,23 +11,23 @@ O projeto demonstra o uso de:
 - Estrutura básica de organização de projeto Java
 
 ---
+## 📁 Estrutura do Projeto
 
-## Estrutura do Projeto
-
+```
 FileReader-Writer/
-│
 ├── src/
-│   ├── Main.java        # Classe principal para execução
-│   ├── Produto.java     # Classe modelo representando um produto
-│   ├── ArquivoService.java   # Classe responsável pela metodo de criacao de produto e somatorio
-│   └── EscritorCSV.java # Classe responsável pela leitura de arquivos
+│   ├── Main.java            # Classe principal para execução
+│   ├── Produto.java         # Classe modelo representando um produto
+│   ├── ArquivoService.java  # Classe responsável pelo método de criação de produto e somatório
+│   └── EscritorCSV.java     # Classe responsável pela leitura de arquivos
 │
 ├── csvs/
-│   │└──saida/
-│   │    ├── somatorio.csv  #arquivo utilizado para armazenar somatoria dos produtos
-│   └── produto.csv     # Arquivo CSV utilizado para armazenar produtos
+│   ├── produto.csv          # Arquivo CSV utilizado para armazenar produtos
+│   └── saida/
+│       └── somatorio.csv    # Arquivo utilizado para armazenar somatória dos produtos
 │
 └── README.md
+```
 
 ---
 
