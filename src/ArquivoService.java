@@ -22,6 +22,7 @@ public class ArquivoService {
                 bw.newLine();
 
             System.out.println("produto adicionado a arquivo produto.csv");
+            System.out.println(" ");
         } catch(IOException e){
             System.out.println("Erro: " + e.getMessage());
         }
@@ -32,6 +33,7 @@ public class ArquivoService {
                 bw.newLine();
 
             System.out.println("produto adicionado a arquivo somatorio.csv");
+            System.out.println(" ");
         } catch(IOException e){
             System.out.println("Erro: " + e.getMessage());
         }
